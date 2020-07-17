@@ -1,0 +1,5 @@
+[packages]
+azure-iot-device = "*"
+
+[dev-packages]
+pylint = "*"
