@@ -1,5 +1,7 @@
-# azure-d2c-simulator
-Simple Azure IoT Hub Device to Cloud Telemetry Simulator
+# Azure D2C Simulator
+Simple Azure IoT Hub Device to Cloud Telemetry Simulator.
+
+Use this script to simulate your device sending multiple telemetry messages to your Azure IoT Hub.
 
 ## Quickstart (bash)
 
